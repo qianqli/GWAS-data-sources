@@ -3,6 +3,7 @@ Public data sources, database and publications.
 
 ## public datasource
 
+
 ### 1 GWAS Catalog - GWAS Catalog  https://www.ebi.ac.uk/gwas/ 
 #### The NHGRI-EBI Catalog of human genome-wide association studies -- freely available database of SNP-trait associations
 collection of published genome-wide association studies； 
@@ -20,7 +21,7 @@ a collaborative network of 19 biobanks from 4 continents representing more than 
 generated GWASs from across 14 exemplar diseases and endpoints
 
 ### 4，Program in Complex Trait Genomics https://cnsgenomics.com/ 
-The web give a download summary data list of publications
+The web gives a download summary data list of publications
 
 ### 5, Complex traits genetics lab https://ctg.cncr.nl/software/
 Data of pulications in the lab: insomnia, Alzheimer’s disease, neuroticism, brain volume, neuroticism cluster, Alzheimer’s dementia, (neuroticism, neuroticism subclusters and depression), neuroticism, neuroticism subclusters and depression
@@ -34,7 +35,9 @@ focus on stroke and stroke subtypes
 ### 8, GIANT: Genetic Investigation of ANthropometric Traits https://portals.broadinstitute.org/collaboration/giant/index.php/Main_Page
 focus on genetic loci that modulate human body size and shape
 
-### GLGC(Global Lipids Genetics Consortium Results): http://csg.sph.umich.edu/willer/public/glgc-lipids2021/
+### 9, GLGC(Global Lipids Genetics Consortium Results): http://csg.sph.umich.edu/willer/public/glgc-lipids2021/
 focus on five blood lipid traits
 
 。。。
+### proteomics data
+
